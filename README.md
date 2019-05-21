@@ -26,6 +26,7 @@ Work in progress...
 ## ManageEngine Applications Manager AMUserResourcesSyncServlet SQL Injection RCE CVE-?
 - Install: http://archives.manageengine.com/applications_manager/12900
 - https://manageenginesales.co.uk/2018/05/manageengine-applications-manager-build-13730-released/
++ SQLI: Unauthenticated SQL Injection vulnerabilities in the AMUserResourcesSyncServlet.  
 - https://www.postgresql.org/docs/9.4/functions-binarystring.html
 - https://www.mulesoft.com/tcat/tomcat-jsp
 - Extra: Deserialization Vulnerability
